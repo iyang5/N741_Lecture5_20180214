@@ -1,11 +1,11 @@
 ---
 title: 'N741 Lecture 5: EDA with `dplyr` and `ggplot2`'
-author: "Melinda Higgins"
-date: "February 12, 2018"
+author: "Melinda Higgins & Vicki Hertzberg"
+date: "February 14, 2018"
 output:
-  pdf_document: default
-  html_document: default
   word_document: default
+  html_document: default
+  pdf_document: default
 editor_options:
   chunk_output_type: console
 ---
